@@ -6,11 +6,27 @@
    - [Workspace](./1/readme.md)
 2. [Azure Administrator Associate(AZ 104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
    - [Workspace](./2/readme.md)
-3. [Azure Security Engineer Associate(AZ 500)](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
+3. [Azure Developer Associate(AZ 204)](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
    - [Workspace](./3/readme.md)
-4. [Azure for SAP Workloads Speciality(AZ 120)](https://learn.microsoft.com/en-us/credentials/certifications/azure-for-sap-workloads-specialty/?practice-assessment-type=certification)
+4. [Microsoft Certified: Azure Cosmos DB Developer Specialty(DP 420)](https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/?practice-assessment-type=certification)
    - [Workspace](./4/readme.md)
-5. [Azure Network Engineer Associate(AZ 700)](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/?practice-assessment-type=certification)
+5. [Microsoft Certified: DevOps Engineer Expert(AZ 400)](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)
    - [Workspace](./5/readme.md)
-6. [Azure Virtual Desktop Specialty(AZ 140)](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/?practice-assessment-type=certification)
+6. [Azure AI Engineer Associate(AI 102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
    - [Workspace](./6/readme.md)
+7. [Azure Security Engineer Associate(AZ 500)](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
+   - [Workspace](./7/readme.md)
+8. [Azure Network Engineer Associate(AZ 700)](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/?practice-assessment-type=certification)
+   - [Workspace](./8/readme.md)
+  
+## Progress Tracker
+| Certification | Status |
+|---------------|--------|
+| AZ-900        | ✅ |
+| AZ-104        | 🔄 |
+| AZ-204        | 🔲 Not Started |
+| DP-420        | 🔲 Not Started |
+| AZ-400        | 🔲 Not Started |
+| AI-102        | 🔲 Not Started |
+| AZ-500        | 🔲 Not Started |
+| AZ-700        | 🔲 Not Started |
